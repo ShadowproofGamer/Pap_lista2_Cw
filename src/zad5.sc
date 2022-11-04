@@ -14,4 +14,6 @@ initSegment(List(1, 3, 5), List(1, 3, 5, 7))
 initSegment(List(1, 3, 5), List(1, 2, 5, 7))
 initSegment(List(1, 3, 5, 7), List(1, 3, 5, 7))
 initSegment(List(), List(1, 3, 5, 7))
+initSegment(List(1, 3, 5), List())
+
 
