@@ -11,4 +11,6 @@ def replaceNth[A](xs: List[A], n: Int, x: A): List[A] = {
 
 replaceNth(List('o','l','a', 'm', 'a', 'k', 'o', 't', 'a'), 1, 's')
 
+//complexity: O(2n)
+
 //TODO złożoność obliczeniowa i reprezentacja list
